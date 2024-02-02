@@ -1,0 +1,18 @@
+.wrapper {
+  background-color: rgb(181, 177, 177);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 139, 0.2);
+}
+
+.title {
+  font-size: 40px;
+  color: blueviolet;
+  text-align: center;
+}
+
+.itemTitle {
+  font-size: 35px;
+  color: rgb(250, 248, 248);
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+.listButton {
+  gap: 30px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.button {
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100px;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 5px 5px 5px 0 rgba(0, 0, 139, 0.2);
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.button:focus {
+  border: 1px solid #ffffff;
+  background-color: blueviolet;
+  color: #ffffff;
+}
