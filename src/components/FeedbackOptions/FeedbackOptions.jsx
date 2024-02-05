@@ -21,4 +21,3 @@ const FeedbackOptions = ({ options, onClickFeedback }) => {
 };
 
 export default FeedbackOptions;
-// тепер на хуках
